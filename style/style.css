@@ -17,7 +17,7 @@ body {
 }
 
 .magic {
-  background-color: #f9ca24;
+  background-color: #bb1313;
   color: #fff;
   font-family: 'Poppins', sans-serif;
   border: 0;
@@ -61,7 +61,7 @@ body {
 }
 
 .box {
-  background-image: url('https://media.giphy.com/media/EZqwsBSPlvSda/giphy.gif');
+  background-image: url('https://media.tenor.com/WPnCHvK0yUgAAAAC/keiragif-gif.gif');
   background-repeat: no-repeat;
   background-size: 500px 500px;
   position: relative;
@@ -72,7 +72,7 @@ body {
 
 .box::after {
   content: '';
-  background-color: #f6e58d;
+  background-color: #131000;
   position: absolute;
   top: 8px;
   right: -15px;
@@ -83,7 +83,7 @@ body {
 
 .box::before {
   content: '';
-  background-color: #f9ca24;
+  background-color: #494747;
   position: absolute;
   bottom: -15px;
   left: 8px;
